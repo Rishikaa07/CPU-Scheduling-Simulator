@@ -1,11 +1,16 @@
 # 8-Bit CPU Simulator
 A custom-designed 8-bit CPU simulation built using CircuitVerse, complete with a control unit, ALU, instruction set, memory interface, and microinstruction logic. This project simulates a basic Von Neumann architecture processor capable of executing a variety of low-level instructions.
 
-🔗 CircuitVerse Project
-You can explore and run the processor simulation here:
-👉 Gajendra ALU on CircuitVerse
+### 📁 How to Use the .cv File
+To import and use the project locally on CircuitVerse:
+Visit the CircuitVerse Simulator.
+Click on Launch Simulator.
+Go to the Projects section.
+Click Import file.
+Upload the .cv file from your system.
+Click Upload.
+Your circuit will be available to edit, simulate, and analyze.
 
- 
 ### Key Features:
 
 Implements multiple scheduling algorithms:
