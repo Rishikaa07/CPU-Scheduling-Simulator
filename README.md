@@ -10,12 +10,12 @@ You can explore and run the processor simulation here:<br>
 ### 📁 How to Use the .cv File
 <b>To import and use the project locally on CircuitVerse:<br></b>
 1. Visit the <a href="https://circuitverse.org/">CircuitVerse Simulator.</a><br>
-2.Click on Launch Simulator.<br>
-3.Go to the Projects section.<br>
-4.Click Import file.<br>
-5.Upload the .cv file from your system<br>
-6.Click Upload.<br>
-7.Your circuit will be available to edit, simulate, and analyze.<br>
+2. Click on Launch Simulator.<br>
+3. Go to the Projects section.<br>
+4. Click Import file.<br>
+5. Upload the .cv file from your system<br>
+6. Click Upload.<br>
+7. Your circuit will be available to edit, simulate, and analyze.<br>
 
 ### Key Features:
 
