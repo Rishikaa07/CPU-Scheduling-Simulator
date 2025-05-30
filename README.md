@@ -2,7 +2,7 @@
 A custom-designed 8-bit CPU simulation built using CircuitVerse, complete with a control unit, ALU, instruction set, memory interface, and microinstruction logic. This project simulates a basic Von Neumann architecture processor capable of executing a variety of low-level instructions.
 
 ### 📁 How to Use the .cv File
-To import and use the project locally on CircuitVerse:
+To import and use the project locally on CircuitVerse:<br>
 Visit the CircuitVerse Simulator.
 Click on Launch Simulator.
 Go to the Projects section.
