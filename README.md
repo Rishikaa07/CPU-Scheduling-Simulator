@@ -1,6 +1,11 @@
-# CPU-Scheduling-Simulator-
-The CPU Scheduling Simulator is a Python-based educational tool designed to visualize and analyze how different CPU scheduling algorithms operate in an operating system. It helps users understand the behavior and performance of each algorithm by simulating process execution, computing performance metrics, and generating Gantt charts.
+# 8-Bit CPU Simulator
+A custom-designed 8-bit CPU simulation built using CircuitVerse, complete with a control unit, ALU, instruction set, memory interface, and microinstruction logic. This project simulates a basic Von Neumann architecture processor capable of executing a variety of low-level instructions.
 
+🔗 CircuitVerse Project
+You can explore and run the processor simulation here:
+👉 Gajendra ALU on CircuitVerse
+
+ 
 ### Key Features:
 
 Implements multiple scheduling algorithms:
