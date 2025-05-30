@@ -1,7 +1,9 @@
 # 8-Bit CPU Simulator
 A custom-designed 8-bit CPU simulation built using CircuitVerse, complete with a control unit, ALU, instruction set, memory interface, and microinstruction logic. This project simulates a basic Von Neumann architecture processor capable of executing a variety of low-level instructions.
 
-##🔗 CircuitVerse Project
+## Author: Rishika Verma
+
+## 🔗 CircuitVerse Project
 You can explore and run the processor simulation here:<br>
 👉<a href="https://circuitverse.org/users/315732/projects/cpu-scheduling-simulator"> CPU ALU Scheduling Simulator on CircuitVerse</a>
 
