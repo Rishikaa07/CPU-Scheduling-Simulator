@@ -17,16 +17,11 @@ You can explore and run the processor simulation here:<br>
 6. Click Upload.<br>
 7. Your circuit will be available to edit, simulate, and analyze.<br>
 
-### Key Features:
 
-Implements multiple scheduling algorithms:
-First Come First Serve (FCFS)
-Shortest Job First (SJF) (Preemptive & Non-Preemptive)
-Round Robin (RR) with configurable time quantum
-Priority Scheduling (Preemptive & Non-Preemptive)
 
-### Tech Stack
 
-Language: Python
-Concepts: Queues, Sorting, OS scheduling, Time simulation
-Output: Gantt chart (ASCII), Average Waiting Time, Turnaround Time
+### 🔗 Connect
+
+GitHub: Rishikaa007
+
+Email: vermarishika709@gmail.com
