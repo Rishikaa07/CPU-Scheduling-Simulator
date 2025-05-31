@@ -56,7 +56,7 @@ Each instruction is executed using microinstructions governed by a control word 
 
 ## 🧪 Sample Programs
 
-Sample programs are provided in the `report.pdf`.
+Sample programs are provided in the form of `report.pdf`.
 
 
 ### 🔗 Connect
