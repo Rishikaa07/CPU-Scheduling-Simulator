@@ -1,5 +1,5 @@
 # 8-Bit CPU Simulator
-A custom-designed 8-bit CPU simulation built using CircuitVerse, complete with a control unit, ALU, instruction set, memory interface, and microinstruction logic. This project simulates a basic Von Neumann architecture processor capable of executing a variety of low-level instructions.
+A custom-designed 8-bit CPU simulation built using CircuitVerse, complete with a control unit, ALU, instruction set, memory interface, and microinstruction logic. This project simulates a basic Von Neumann architecture processor capable of executing a variety of low-level instructions .
 
 ## Author: Rishika Verma
 
