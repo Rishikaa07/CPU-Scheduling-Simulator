@@ -61,6 +61,6 @@ Sample programs are provided in the form of `report.pdf`.
 
 ### 🔗 Connect
 
-GitHub: Rishikaa007
+GitHub: Rishikaa07
 
 Email: vermarishika709@gmail.com
