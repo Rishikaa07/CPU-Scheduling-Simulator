@@ -23,6 +23,7 @@ You can explore and run the processor simulation here:<br>
 
 ## 🧠 Project Features
 
+
 ### 🏗️ Main Components:
 - **General CPU Register**: 8-bit registers for temporary storage of data.
 - **Program Counter (PC)**: Manages the instruction sequence.
